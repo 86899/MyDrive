@@ -14,11 +14,11 @@
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48L48 64zM0 176L0 384c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-208L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"></path></svg>
       </a>
     </div>
-
+<!--
     <div class="stats">
       访问次数：<span id="vercount_value_site_pv">😯</span>次 | 访客人数：<span id="vercount_value_site_uv">😯</span>人
     </div>
-
+-->
     <div class="project-links">
       <strong>项目:</strong><a href="https://github.com/willow-god/FlareDrive-R2" target="_blank"
         rel="noopener noreferrer">FlareDrive-R2</a>
@@ -27,11 +27,11 @@
       <strong>初始项目:</strong><a href="https://github.com/ljxi/Cloudflare-R2-oss" target="_blank"
         rel="noopener noreferrer">Cloudflare-R2-OSS</a>
     </div>
-
+<!--
     <div class="powered">Powered by <a href="https://workers.cloudflare.com/" target="_blank"
         rel="noopener noreferrer">Cloudflare Workers</a></div>
-
-    <div style="margin:10px 0;">© 2025 FlareDrive. All rights reserved.</div>
+-->
+    <div style="margin:10px 0;">© 2026 MyDrive. All rights reserved.</div>
   </footer>
 </template>
 
